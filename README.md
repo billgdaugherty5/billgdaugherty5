@@ -5,7 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me:
 
-My name is William. I have 7+ years of expereience in the field of data.
+My name is William. I'm a data engineer with 7+ years of experience currently working as an consultant at [Analytics8](https://www.analytics8.com/). 
+
+#### Language & Tools:
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
