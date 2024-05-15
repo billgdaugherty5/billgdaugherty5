@@ -40,6 +40,18 @@ My name is William. I have 7+ years of expereience in the field of data.
 + Automated daily reports and tasks using Python, Excel macros, SQL, and Tableau to deliver critical information to internal clients. This automation helped to reduce the average daily operations time by 30 to 60 minutes.
 + Compiled and analyzed data to generate monthly financial forecast and evaluated previous month’s performance to more than 10,000 clients’ locations nationwide while proposing data-driven insights to improve daily floor operations.
 
+###### Senior Operations Specialist – Strategic Analyst *(November 2017 - March 2018)*:
 
++ Collected and cleaned structured and unstructured data from various sources to provide vital insights to a department of over 100 employees as well as external clients.
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## Education
+
+###### University of Chicago - Chicago,IL
++ Master of Science in Analytics *(June 2018)*
+
+###### University of Puerto Rico, Río Piedras - San Juan, PR
++ Bachelor of Business Administration in Information Systems & Applied Statistics
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
