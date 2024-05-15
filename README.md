@@ -49,6 +49,7 @@ My name is William. I have 7+ years of expereience in the field of data.
 ## Certifications
 
 + [Databricks Certified Data Engineer Associate *(Expires on January 2026)*](https://credentials.databricks.com/069c9f32-bf98-4a2f-ab00-40e4c8b8677a#gs.9dn9s8)
++ [Tableau Desktop Certified Associate *(Expired on May 2023)*](https://www.credly.com/badges/787b2c3b-ce01-44b8-8f2c-6c22d0973adf)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
