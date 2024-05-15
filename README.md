@@ -46,12 +46,18 @@ My name is William. I have 7+ years of expereience in the field of data.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+## Certifications
+
++ [Databricks Certified Data Engineer Associate *(Expires on January 2026)*](https://credentials.databricks.com/069c9f32-bf98-4a2f-ab00-40e4c8b8677a#gs.9dn9s8)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## Education
 
-###### University of Chicago - Chicago,IL
-+ Master of Science in Analytics *(June 2018)*
+###### University of Chicago - Chicago,IL *(June 2018)*
++ Master of Science in Analytics
 
-###### University of Puerto Rico, Río Piedras - San Juan, PR
+###### University of Puerto Rico, Río Piedras - San Juan, PR *(May 2016)*
 + Bachelor of Business Administration in Information Systems & Applied Statistics
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
