@@ -20,7 +20,7 @@ My name is William. I have 7+ years of expereience in the field of data.
 
 #### OneSpan
 
-###### Enterprise Data Analyst *(August 20202 - February 2022)*:
+###### Enterprise Data Analyst *(August 2020 - February 2022)*:
 
 + Implemented various time series and linear regression models to predict Annual Recurring Revenue (ARR). I then displayed the actionable results in Tableau using the RServe package.
 + Collaborated with various executive team members to create and refine Tableau reports. As part of this process, I cleaned data in SQL, R, and Python to enable automation that would ensure source to target data accuracy.
