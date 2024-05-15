@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me:
 
+My name is William. I have 7+ years of expereience in the field of data.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
