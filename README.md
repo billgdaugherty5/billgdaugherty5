@@ -36,7 +36,7 @@ My name is William. I'm a data engineer with 7+ years of experience currently wo
 + Worked with the operation’s team to clearly define and design key metrics for floor operations with the end goal of measuring and tracking them (KPI’s) via Tableau dashboards.
 + Performed data-driven analysis to answer critical business questions related to sales, demand, and talent behavior on the platform. I used Python and R to conduct the analysis and presented the insights to the c-suite level.
 
-#### SMS Assist (*currently [Lessen]*)(https://www.lessen.com/)
+#### SMS Assist (*currently [Lessen](https://www.lessen.com/)*)
 
 ###### Business Analytics Coordinator *(April 2018 - March 2019)*:
 
