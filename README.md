@@ -14,7 +14,7 @@ My name is William. I'm a data engineer with 7+ years of experience currently wo
 
 ## Profesional Experience
 
-#### Analytcs8
+#### [Analytcs8](https://www.analytics8.com/)
 
 ###### Staff Cosultant *(February 2022 - Present)*:
 
@@ -22,21 +22,21 @@ My name is William. I'm a data engineer with 7+ years of experience currently wo
 + Developed and maintained the ETL processes for a large brewer's supply chain operations. Was actively working in the migration from QlikSense to PowerBI by using tools in the backend such as Azure Data Factory and Databricks.
 + Optimized ETL workflows and pipelines for performance, reliability, and scalability while implementing data quality and data validation processes to ensure data accuracy and consistency.
 
-#### OneSpan
+#### [OneSpan](https://www.onespan.com/)
 
 ###### Enterprise Data Analyst *(August 2020 - February 2022)*:
 
 + Implemented various time series and linear regression models to predict Annual Recurring Revenue (ARR). I then displayed the actionable results in Tableau using the RServe package.
 + Collaborated with various executive team members to create and refine Tableau reports. As part of this process, I cleaned data in SQL, R, and Python to enable automation that would ensure source to target data accuracy.
 
-#### Cameo
+#### [Cameo](https://www.cameo.com/)
 
 ###### Data Analyst *(June 2019 - March 2020)*:
 
 + Worked with the operation’s team to clearly define and design key metrics for floor operations with the end goal of measuring and tracking them (KPI’s) via Tableau dashboards.
 + Performed data-driven analysis to answer critical business questions related to sales, demand, and talent behavior on the platform. I used Python and R to conduct the analysis and presented the insights to the c-suite level.
 
-#### SMS Assist (currently [Lessen](https://www.lessen.com/)
+#### SMS Assist (*currently [Lessen]*)(https://www.lessen.com/)
 
 ###### Business Analytics Coordinator *(April 2018 - March 2019)*:
 
