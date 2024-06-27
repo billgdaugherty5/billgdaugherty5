@@ -5,7 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me:
 
-My name is William. I'm a data engineer with 7+ years of experience currently working as an consultant at [Analytics8](https://www.analytics8.com/). 
+My name is William. I'm a data engineer with 7+ years of experience currently working as an consultant at [Analytics8](https://www.analytics8.com/).
+
+My LinkedIn Profile [here](https://www.linkedin.com/in/wguzmandaugherty/)!
 
 #### Language & Tools:
 
